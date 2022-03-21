@@ -1,2 +1,2 @@
 # Fabmedical
-This project is for training only.
+This project is use for MS Azure - Cloud Native Apps workshop.
